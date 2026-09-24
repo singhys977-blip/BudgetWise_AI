@@ -1,0 +1,201 @@
+Income,Rent,Food,Transport,Shopping,Entertainment,Healthcare,Education,Bills,Other,Total_Expenses,Savings,Budget_Health,Expense_Ratio,Calculated_Savings,Spending_Level,Recommendation,Highest_Expense_Category
+40795,21646,8665,2810,7493,4951,2620,2216,4427,3624,54828,-14033,Overspending,134.39882338521878,-14033,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+25860,19075,7877,3923,3878,3435,2843,4951,5780,1827,51762,-25902,Overspending,200.16241299303945,-25902,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+79886,14208,9267,3214,5143,4376,1740,4786,2927,2908,45661,34225,Saving,57.15769972210399,34225,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+31265,21371,4849,5186,4644,626,560,4238,4804,4173,46278,-15013,Overspending,148.01855109547418,-15013,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+62194,16835,5251,1713,5432,3677,1438,2969,4702,3791,42017,20177,Saving,67.55796379071937,20177,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+69131,18168,9390,4602,2276,3556,2139,1056,3356,4533,44543,24588,Saving,64.43274363165584,24588,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+85263,7049,8905,5134,6811,1103,4620,1325,5790,1203,40737,44526,Saving,47.778051440836,44526,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Food
+41023,10423,5730,4522,1302,3949,4726,3308,3335,1074,37295,3728,Saving,90.91241498671478,3728,High Spending,High spending level. Monitor your Rent expenses and look for opportunities to save.,Rent
+66090,19589,4489,5268,1638,4646,4069,3219,1306,3732,44224,21866,Saving,66.91481313360569,21866,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+92221,24492,3631,5748,1055,4033,1752,4008,4665,3132,49384,42837,Saving,53.549625356480625,42837,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+89820,12158,4816,5849,9717,3867,4703,4241,2989,4328,48340,41480,Saving,53.81874860832777,41480,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+25769,15248,3015,2243,9150,3868,671,2074,1661,3730,37930,-12161,Overspending,147.19236291668284,-12161,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+84735,12400,3348,4709,3125,4297,1958,4498,5644,988,39979,44756,Saving,47.181212013925766,44756,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+87955,24554,6611,2081,1364,2292,4049,2629,1311,1847,44891,43064,Saving,51.03859928372463,43064,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+89925,14874,5087,1455,7809,3361,4697,2903,3920,4181,44106,45819,Saving,49.04753961634696,45819,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+92969,20151,4839,5924,5621,3976,2822,3829,2082,3673,49244,43725,Saving,52.96819369897493,43725,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+30311,23639,2335,1894,6126,3917,2136,1088,3971,2167,45106,-14795,Overspending,148.81066279568472,-14795,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+78707,6154,7878,2384,6122,2145,3615,2512,6833,2137,37643,41064,Saving,47.82674984435946,41064,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Food
+53693,9499,8401,2958,2646,1705,4590,2047,1754,4614,33600,20093,Saving,62.57798968208146,20093,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+96932,11295,6592,4072,1918,3530,3504,794,5130,4053,36835,60097,Saving,38.00086658688565,60097,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+50658,17183,2895,2996,3797,3372,829,2485,5540,1500,39097,11561,Saving,77.17833313593114,11561,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+43431,17874,8303,5285,7506,3572,4140,3617,6326,1350,56623,-13192,Overspending,130.37461720890607,-13192,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+27747,23032,5546,1504,6870,2354,4394,2190,1352,1888,47242,-19495,Overspending,170.2598479114859,-19495,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+84150,10539,2851,2214,2531,4521,4607,1636,1902,4212,30801,53349,Saving,36.60249554367201,53349,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+90725,14637,3687,2531,9172,3208,1841,2564,6451,1867,44091,46634,Saving,48.59851198677322,46634,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+60773,20586,3931,4440,4345,4002,4163,4955,4888,1321,51310,9463,Saving,84.42894048343837,9463,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+92435,7557,8833,1823,8673,1832,715,1507,6844,954,37784,54651,Saving,40.87629144804457,54651,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Food
+81886,10592,5746,1928,7949,701,838,3014,1158,2124,31926,49960,Saving,38.98834965684,49960,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+91803,21482,4427,1133,7882,4007,4562,4026,2977,3272,50496,41307,Saving,55.0047384072416,41307,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+56551,7200,3568,3105,2906,4712,3208,1747,1956,4226,28402,28149,Saving,50.2236918887376,28149,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+36394,19172,6000,4627,4086,1074,3652,4402,3071,3647,46084,-9690,Overspending,126.62526790130242,-9690,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+94092,7961,7052,5780,9152,1036,2250,1935,1403,4589,36569,57523,Saving,38.865153254261784,57523,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Shopping
+28890,19207,4738,2852,6750,2125,2921,1071,5611,2690,45275,-16385,Overspending,156.71512634129456,-16385,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+66606,16969,5498,5910,9905,2622,1209,2882,3779,1416,48774,17832,Saving,73.22763714980633,17832,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+35627,7869,7732,5175,2062,885,4226,1745,2387,4486,32081,3546,Saving,90.04687456142813,3546,High Spending,High spending level. Monitor your Rent expenses and look for opportunities to save.,Rent
+33792,22340,7387,3933,2976,3781,4142,2584,4453,3375,51596,-17804,Overspending,152.6870265151515,-17804,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+98969,18992,9744,4284,2296,974,4493,777,1955,1940,43515,55454,Saving,43.96831331022846,55454,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+68001,10699,7536,5298,7229,917,988,2387,2712,4900,37766,30235,Saving,55.53741856737401,30235,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+48897,8987,7287,3811,8641,4100,546,1765,5703,1235,40840,8057,Saving,83.52250649324088,8057,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+93148,18446,5913,2250,1125,1454,3859,1540,2273,4068,36860,56288,Saving,39.57143470605917,56288,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+48483,6218,3066,4512,5632,1705,900,1417,6631,3838,30081,18402,Saving,62.044427943815364,18402,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Bills
+73555,9735,9723,2256,7288,4620,4490,1385,4811,3515,44308,29247,Saving,60.23791720481273,29247,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+42159,16296,6380,4376,4596,2490,3657,3252,3625,3389,44672,-2513,Overspending,105.96076757038828,-2513,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+60920,9555,4444,4486,7168,4072,4845,521,3382,1461,38473,22447,Saving,63.15331582403152,22447,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+92121,14146,6107,4584,8561,4880,890,3691,2441,3489,45300,46821,Saving,49.174455335916896,46821,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+94479,13050,7726,2396,9258,4658,4353,2853,3979,4348,48273,46206,Saving,51.093893881179945,46206,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+44457,17757,5373,4637,1232,3213,4930,1186,2797,1526,41125,3332,Saving,92.50511730436152,3332,High Spending,High spending level. Monitor your Rent expenses and look for opportunities to save.,Rent
+91557,24830,5969,4330,7371,2703,1128,784,5390,4365,52505,39052,Saving,57.34678943172013,39052,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+77995,22429,9420,3703,5206,3620,4732,4247,5009,3363,58366,19629,Saving,74.83300211552023,19629,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+65757,11893,4546,1470,8943,1466,3430,1262,5850,3001,38860,26897,Saving,59.09636996821631,26897,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+34692,23077,2753,2353,7891,3932,2021,2928,2394,2447,47349,-12657,Overspending,136.48391560013835,-12657,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+70758,19373,4082,3783,7738,1188,1326,3007,5281,1677,45778,24980,Saving,64.6965714124198,24980,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+97409,19565,4774,3831,3472,4743,2000,528,2269,511,41182,56227,Saving,42.27740763173834,56227,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+96211,8436,4896,1357,3739,4201,3794,1406,5732,4899,33561,62650,Saving,34.8827057197202,62650,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+90697,13754,6185,4019,6401,841,2919,3604,6387,3864,44110,46587,Saving,48.63446420499024,46587,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+62065,15677,2775,1667,2761,2224,1434,4499,4714,3522,35751,26314,Saving,57.60251349391766,26314,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+57606,10895,8748,5468,1876,4922,3542,3494,1529,3871,40474,17132,Saving,70.26004235669896,17132,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+36534,24738,9113,2145,4812,2292,4997,3006,4623,3330,55726,-19192,Overspending,152.53188810423168,-19192,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+65397,21609,3625,5185,2460,2259,1966,4109,3958,542,45171,20226,Saving,69.07197577870544,20226,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+26016,20636,5069,4719,2733,3712,4061,4053,3914,1443,48897,-22881,Overspending,187.94972324723247,-22881,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+80591,12022,2417,3745,2605,1489,1114,1953,5889,2890,31234,49357,Saving,38.756188656301575,49357,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+48247,14151,2114,1539,6622,2762,1682,3856,4591,3045,37317,10930,Saving,77.34574170414741,10930,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+49300,10600,2616,3779,7767,2982,3723,1015,3147,2911,35629,13671,Saving,72.26977687626774,13671,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+99065,12996,5974,5964,7986,1451,3167,538,5573,1504,43649,55416,Saving,44.06097007015596,55416,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+34268,14007,5267,5136,4517,1222,630,3842,6718,520,41339,-7071,Overspending,120.63441111240807,-7071,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+37185,17946,2825,5835,4735,3889,3483,1386,4369,906,44468,-7283,Overspending,119.58585451122765,-7283,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+88704,9642,9668,4775,9434,2579,4778,3344,1939,1514,46159,42545,Saving,52.03711219336219,42545,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Food
+64099,16312,7745,3508,3590,3217,4959,2704,1525,4931,43560,20539,Saving,67.95737843024072,20539,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+33571,12679,3516,3779,2063,2832,538,1598,1001,2338,28006,5565,Saving,83.42319263650174,5565,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+63044,13208,5146,1924,5324,3876,4459,2323,1374,3688,37634,25410,Saving,59.694816318761504,25410,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+76214,23589,2412,3956,6342,2000,4087,3701,3340,1214,49427,26787,Saving,64.85291416275226,26787,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+86228,15716,9543,2581,1005,785,1420,3655,5005,4646,39710,46518,Saving,46.0523263904996,46518,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+73984,22453,9587,4324,8489,3995,3269,3593,4052,4354,59762,14222,Saving,80.77692474048442,14222,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+65774,8444,2728,5485,9659,2565,4611,4030,5648,4919,43170,22604,Saving,65.63383707848087,22604,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Shopping
+27568,15757,5348,1255,9195,1268,992,4278,3365,640,41458,-13890,Overspending,150.38450377248984,-13890,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+87592,19434,9164,5804,6966,3557,1631,3396,2525,1463,52477,35115,Saving,59.910722440405515,35115,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+92563,6060,4808,2838,9837,4789,4021,3953,6947,872,43253,49310,Saving,46.728174324514114,49310,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Shopping
+27695,23711,2675,2944,1117,2661,810,4011,5476,4135,43405,-15710,Overspending,156.72504062105074,-15710,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+73190,8420,5465,1009,3551,3793,1238,1488,2646,3041,27610,45580,Saving,37.72373275037573,45580,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+30258,5301,7988,3871,6560,1446,3741,4616,1013,4110,34536,-4278,Overspending,114.13840967677969,-4278,High Spending,Overspending detected. Review your Food expenses and reduce unnecessary spending.,Food
+64504,17468,4504,1797,5289,3835,1045,4526,5599,2192,44063,20441,Saving,68.31049237256605,20441,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+58159,21990,4967,5972,1846,4650,2961,4679,3278,605,50343,7816,Saving,86.5609793841022,7816,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+38986,24554,8335,2015,7316,1981,4846,2182,4155,2181,55384,-16398,Overspending,142.0612527574001,-16398,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+86858,5699,4786,2824,7469,2401,2304,4463,1129,4597,31075,55783,Saving,35.776785097515486,55783,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Shopping
+37666,5190,9856,5469,9915,3951,3712,1433,4814,4516,44340,-6674,Overspending,117.71889767960495,-6674,High Spending,Overspending detected. Review your Shopping expenses and reduce unnecessary spending.,Shopping
+63660,15492,3122,4136,1224,4564,4310,4098,5933,3136,42879,20781,Saving,67.35626767200755,20781,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+28561,22364,6079,3193,5208,554,1313,3733,4216,2637,46660,-18099,Overspending,163.36962991491896,-18099,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+51854,7975,3571,1223,7283,2323,4624,2480,3938,3916,33417,18437,Saving,64.44440158907703,18437,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+89505,11102,7073,5948,3048,3962,2532,2355,4928,4945,40948,48557,Saving,45.74939947488967,48557,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+77251,22568,7104,5158,7233,3579,4913,3556,3040,4030,57151,20100,Saving,73.98091934084997,20100,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+47662,24711,4143,4925,2828,1332,744,1292,1027,1786,41002,6660,Saving,86.02660400318912,6660,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+33392,24778,3687,5784,2917,4908,771,1291,3113,3679,47249,-13857,Overspending,141.497963584092,-13857,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+55535,6816,8806,5000,5234,3306,4011,2309,2252,4154,37734,17801,Saving,67.94634014585397,17801,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Food
+77256,5569,9357,2633,7988,2990,2271,2755,5356,2859,38919,38337,Saving,50.376669773221494,38337,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Food
+60222,10442,9903,3152,3026,827,1762,4110,3046,944,36268,23954,Saving,60.223838464348574,23954,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+88335,6895,6132,1510,4744,3810,2924,2107,6568,535,34690,53645,Saving,39.27095715175186,53645,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+35965,24117,5851,1384,1009,3800,4861,1484,6543,1975,49049,-13084,Overspending,136.37981370777143,-13084,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+49538,8863,5440,1404,1260,4175,1420,4176,5555,4457,32293,17245,Saving,65.18834026403972,17245,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+95592,17913,5766,5613,7038,3554,3930,3880,5023,2298,52717,42875,Saving,55.14792032806093,42875,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+33110,12455,7644,5571,3219,2643,4935,1019,5396,2345,42882,-9772,Overspending,129.5137420718816,-9772,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+52266,9014,4326,3000,8041,1811,4984,1090,4374,1908,36640,15626,Saving,70.10293498641565,15626,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+77992,16093,8360,3756,3060,3691,3124,1550,4466,2208,44100,33892,Saving,56.54426094984101,33892,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+31910,23070,4914,2668,6287,3038,4260,4133,4081,3438,52451,-20541,Overspending,164.37167032278285,-20541,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+25206,8009,6968,2460,2619,4483,2550,4944,4778,1800,36811,-11605,Overspending,146.04062524795685,-11605,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+48419,21538,7917,4636,9512,664,4000,1459,1629,1743,51355,-2936,Overspending,106.06373531051861,-2936,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+75636,15729,7392,3724,2342,4777,1665,1192,1269,4476,38090,37546,Saving,50.35961711354382,37546,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+75015,6409,5952,5809,3832,1322,875,4399,3639,3597,32237,42778,Saving,42.974071852296206,42778,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+79268,17249,8205,5178,3824,1443,2533,4973,2993,509,46398,32870,Saving,58.53307766059444,32870,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+43141,5784,2595,3048,2994,4925,645,3446,6724,2925,30161,12980,Saving,69.91261213231034,12980,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Bills
+96910,13096,7999,5146,4490,1274,4888,1026,6897,2160,44816,52094,Saving,46.244969559385,52094,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+81044,12560,2728,5780,8984,2698,931,3724,3891,3131,41296,39748,Saving,50.955036770149555,39748,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+92214,17533,3365,1716,2604,3656,1204,2753,5957,1572,38788,53426,Saving,42.06302730604897,53426,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+58827,12343,6492,5544,1235,4742,3132,3844,4432,3725,41764,17063,Saving,70.99461131793224,17063,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+80820,12206,2698,5976,2908,4195,4994,4465,2280,1816,39722,41098,Saving,49.148725562979465,41098,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+87623,10801,9186,5583,9567,3952,1463,2375,6895,4645,49822,37801,Saving,56.85950035949465,37801,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+47299,24190,8320,2823,4530,1414,2734,2263,6802,4183,53076,-5777,Overspending,112.21378887502907,-5777,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+68585,21921,7731,3081,6256,1808,2541,1020,3360,3773,47718,20867,Saving,69.57497995188452,20867,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+89044,10986,2395,4419,3635,4677,2328,1516,1575,645,31531,57513,Saving,35.41058353173712,57513,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+67557,23225,8588,2574,9162,1013,2608,616,2307,3540,50093,17464,Saving,74.14923694065752,17464,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+74080,15647,9400,1249,3560,2420,4568,2933,4192,1962,43969,30111,Saving,59.35340172786178,30111,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+27693,13716,6171,1673,6415,4094,1438,1083,4178,2084,38768,-11075,Overspending,139.9920557541617,-11075,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+94163,24334,6360,5533,4391,1909,1306,894,3734,982,48461,45702,Saving,51.46501279695846,45702,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+50939,17323,4502,3165,6951,3690,1963,4288,3212,3679,45094,5845,Saving,88.5254912738766,5845,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+73925,9780,3819,1770,6468,4991,3915,3268,3352,1749,37363,36562,Saving,50.54176530267163,36562,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+67941,7368,2717,4962,9007,2055,510,4667,4568,1130,35854,32087,Saving,52.772258282921946,32087,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Shopping
+46834,17039,4782,5363,7413,1304,2368,4360,2655,1161,45284,1550,Saving,96.69043857026946,1550,High Spending,High spending level. Monitor your Rent expenses and look for opportunities to save.,Rent
+43047,11655,9551,2984,7941,1779,1384,773,2579,4003,38646,4401,Saving,89.77629103073384,4401,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+51105,13173,9731,2077,5820,4077,4064,2513,6943,3352,48398,2707,Saving,94.70306232266901,2707,High Spending,High spending level. Monitor your Rent expenses and look for opportunities to save.,Rent
+40707,9495,6946,1235,3898,3401,1889,4933,3203,2966,35000,5707,Saving,85.98029822880585,5707,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+46976,15893,5577,1388,8546,1887,3901,1889,2390,1487,41471,5505,Saving,88.28125,5505,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+69262,18403,7486,4037,1077,3261,4821,4066,2742,2046,45893,23369,Saving,66.25999826744824,23369,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+48776,18121,2143,5858,8577,3179,1324,665,2925,1149,42792,5984,Saving,87.73167131376086,5984,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+55080,15966,6980,2848,5227,2606,2765,2067,1619,1468,40078,15002,Saving,72.76325344952797,15002,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+91842,5853,5140,5719,1600,4723,1436,1228,2274,3137,27973,63869,Saving,30.45774264497724,63869,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+86373,21958,9266,3814,2065,3268,3300,2543,1956,1600,48170,38203,Saving,55.76974285945839,38203,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+31776,22532,6491,4374,3136,4453,3053,4697,2939,940,51675,-19899,Overspending,162.62273413897282,-19899,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+80016,14907,9192,4278,7943,3686,4345,3996,4953,1269,53300,26716,Saving,66.61167766446711,26716,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+34474,9777,9091,2252,8804,3780,2296,1278,3381,1843,40659,-6185,Overspending,117.94105702848523,-6185,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+83053,20338,4938,4981,7565,3073,553,713,1968,4858,44129,38924,Saving,53.133541232706825,38924,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+46959,7491,7588,5673,6984,3099,1226,4262,2316,4229,38639,8320,Saving,82.28241657616219,8320,Moderate Spending,Moderate spending level. Keep monitoring your Food expenses and maintain your savings.,Food
+30530,20328,9651,3122,6142,4533,3236,2076,2043,4406,51131,-20601,Overspending,167.47789059941042,-20601,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+28748,19599,5636,5530,5670,736,3670,2948,1281,2077,45070,-16322,Overspending,156.7761235564213,-16322,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+38545,24508,5222,3150,3190,1804,2413,3436,3844,4508,47567,-9022,Overspending,123.40640809443508,-9022,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+91199,8051,3167,5859,3712,3930,2096,3617,2058,3851,32490,58709,Saving,35.62539062928322,58709,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+59766,20979,4616,2329,3192,1801,2414,1091,5293,2849,41715,18051,Saving,69.79720911555066,18051,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+98530,21388,3062,2358,2248,3041,2966,3220,3532,4102,41815,56715,Saving,42.43885111133665,56715,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+86087,5876,4156,3482,5033,2551,3237,1213,4828,1741,30376,55711,Saving,35.28523470442691,55711,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+93840,9142,9860,5542,2997,941,1349,1435,6178,1625,37444,56396,Saving,39.90196078431373,56396,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Food
+79384,20202,7161,3017,4687,2576,2609,4837,6280,3101,51369,28015,Saving,64.70951325204072,28015,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+76005,11966,7305,2331,5018,3680,502,501,2008,1690,33311,42694,Saving,43.82737977764621,42694,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+71576,12079,4982,5344,2970,3157,4755,3348,2229,4631,38864,32712,Saving,54.29752989828993,32712,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+64353,12987,8541,5261,9389,4298,4569,4544,2035,4948,51624,12729,Saving,80.22003636194117,12729,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+87003,11799,5294,2358,6765,1304,1392,2449,5585,572,36946,50057,Saving,42.46520234934428,50057,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+77733,9465,6729,5637,2202,574,2530,1417,1275,2414,29829,47904,Saving,38.37366369495581,47904,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+90318,22019,3156,5854,9135,2675,3660,3674,3740,2972,53913,36405,Saving,59.692420115591574,36405,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+48664,18417,9330,4177,6567,4424,2876,2741,3289,3546,51821,-3157,Overspending,106.4873417721519,-3157,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+92172,23077,7334,3128,8667,2589,2433,589,2239,1207,50056,42116,Saving,54.307164865685884,42116,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+51736,13311,2732,3180,6742,540,1880,2209,6370,2304,36964,14772,Saving,71.4473480748415,14772,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+25854,22214,6330,5892,6788,2581,4181,2669,1125,4213,51780,-25926,Overspending,200.27848688790903,-25926,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+63623,19098,8801,1137,6408,2122,1790,4738,5065,3064,49159,14464,Saving,77.2660830202914,14464,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+32392,10177,6846,4472,9669,841,2140,3541,5312,2975,42998,-10606,Overspending,132.7426525067918,-10606,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+80680,19262,8731,3832,1922,4552,3182,605,4868,4110,46954,33726,Saving,58.19781854238969,33726,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+71717,13308,9176,4579,1419,2574,1487,1386,2208,4755,36137,35580,Saving,50.38833191572431,35580,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+75859,10949,9241,4031,3204,1145,1718,927,6342,3323,37557,38302,Saving,49.50895740782241,38302,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+51309,24222,2953,5164,2120,4763,1855,2395,4249,2235,47721,3588,Saving,93.00707478220195,3588,High Spending,High spending level. Monitor your Rent expenses and look for opportunities to save.,Rent
+88734,6150,4539,3593,1950,1109,4765,816,1918,2085,24840,63894,Saving,27.993779160186627,63894,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+95467,6931,9056,5300,3336,954,4635,1134,6413,566,37759,57708,Saving,39.55188703950056,57708,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Food
+77662,14204,5324,4818,6373,3453,2060,2425,4923,3561,43580,34082,Saving,56.11495969714918,34082,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+37688,23048,5301,5138,3243,2208,1918,2556,6757,2928,50169,-12481,Overspending,133.11664190193164,-12481,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+50342,6081,3542,4823,3645,3972,1454,3644,5403,4653,32564,17778,Saving,64.68555083230702,17778,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+62157,21896,7293,5042,5612,3469,1483,2770,6455,841,54020,8137,Saving,86.90895635246231,8137,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+92863,18407,7772,2906,2865,3528,1474,1939,2969,3274,41860,51003,Saving,45.07715667165609,51003,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+77083,12805,3191,1760,7028,3181,4633,1052,3793,3317,37443,39640,Saving,48.57491275637948,39640,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+90733,10237,8313,4445,8326,4129,4472,1215,1891,3161,43028,47705,Saving,47.422657687941545,47705,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+59698,21943,7512,1899,7371,4725,1413,4411,5470,1732,54744,4954,Saving,91.70156454152568,4954,High Spending,High spending level. Monitor your Rent expenses and look for opportunities to save.,Rent
+47671,17775,4993,5455,7359,3567,536,2213,3033,4374,44931,2740,Saving,94.25227077258711,2740,High Spending,High spending level. Monitor your Rent expenses and look for opportunities to save.,Rent
+50184,21244,8938,3947,8863,1886,3887,3889,2364,2901,55018,-4834,Overspending,109.63255220787502,-4834,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+67107,18184,4681,2719,4228,4276,2211,1607,1128,1994,39034,28073,Saving,58.166808231630085,28073,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+76663,8343,3217,1280,4719,3366,3520,4706,2014,4711,31165,45498,Saving,40.65194422341938,45498,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+40708,18500,3540,4266,3371,3863,1295,750,2799,1161,38384,2324,Saving,94.29104844256658,2324,High Spending,High spending level. Monitor your Rent expenses and look for opportunities to save.,Rent
+74811,14662,8172,2887,3891,4624,4536,2930,6477,4383,48179,26632,Saving,64.40095707850449,26632,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+27811,21964,5236,4266,4756,648,3611,2554,5612,4119,48647,-20836,Overspending,174.91999568516056,-20836,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+81250,20125,7541,1666,5225,4350,1824,958,2518,2368,44207,37043,Saving,54.40861538461539,37043,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+97082,13130,4386,5188,1094,2558,817,707,5181,2834,33061,64021,Saving,34.054716631301375,64021,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+59754,24531,5719,1671,3674,1636,2896,1399,2198,3874,43724,16030,Saving,73.17334404391337,16030,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
+36411,6679,7615,2969,7898,686,2662,3961,4873,1516,37343,-932,Overspending,102.55966603498943,-932,High Spending,Overspending detected. Review your Shopping expenses and reduce unnecessary spending.,Shopping
+27911,8506,3388,5156,1793,3354,3245,3885,6238,4906,35565,-7654,Overspending,127.42287986815235,-7654,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+92270,18284,3856,4122,3116,1750,2091,521,3474,707,37214,55056,Saving,40.331635417795596,55056,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+33680,12253,3365,5699,6779,1833,3611,909,4485,3165,38934,-5254,Overspending,115.59976247030879,-5254,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+96295,24128,2499,5777,7166,4693,4430,1394,5049,2993,55136,41159,Saving,57.257386157121346,41159,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+36111,14435,3680,4900,1814,4650,2496,1014,4719,1132,37708,-1597,Overspending,104.42247514607736,-1597,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+62504,16310,2510,1523,1345,3211,1812,4609,1302,2602,32622,29882,Saving,52.19185972097786,29882,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+26802,18296,9494,3393,9554,2285,1785,2634,4952,3459,52393,-25591,Overspending,195.48168047160658,-25591,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+33155,23525,6312,4117,3443,1250,4811,4095,5683,3583,53236,-20081,Overspending,160.56703362992008,-20081,High Spending,Overspending detected. Review your Rent expenses and reduce unnecessary spending.,Rent
+98656,18245,3324,3593,8783,2262,2883,3456,1986,2431,44532,54124,Saving,45.13866363931236,54124,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+64384,16151,3155,2968,1984,4420,3739,2060,2863,4219,37340,27044,Saving,57.99577534791253,27044,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+72254,15457,3827,2753,8790,4960,2639,1766,5440,3062,45632,26622,Saving,63.15498103911202,26622,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+46918,7479,5141,3296,1827,981,2204,2669,5909,2179,29506,17412,Saving,62.88844366767552,17412,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+85713,9452,9419,3261,4531,653,862,4138,4072,736,36388,49325,Saving,42.453303466218664,49325,Low Spending,Good budgeting pattern. Continue maintaining your savings and monitoring expenses.,Rent
+55306,10881,5486,3286,8147,2024,3104,1249,6406,4943,40583,14723,Saving,73.37901855133259,14723,Moderate Spending,Moderate spending level. Keep monitoring your Rent expenses and maintain your savings.,Rent
